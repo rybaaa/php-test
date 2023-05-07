@@ -432,3 +432,8 @@ input.button.next {
 	display: inline;
 	cursor: pointer;
 }
+
+
+#content{
+	padding: 40px;
+}
