@@ -1,6 +1,6 @@
 <?php
 	define("TITLE", "Intro to Functions");
-	$myName	= "Brad Hussey";
+	$myName	= "Anton Rybak";
 	$lessonNum	= 23;
 ?>
 

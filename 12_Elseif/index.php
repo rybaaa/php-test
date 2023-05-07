@@ -1,6 +1,6 @@
 <?php
 	define("TITLE", "Else if");
-	$my_name	= "Brad Hussey";
+	$my_name	= "Anton Rybak";
 	$lesson_num	= 12;
 ?>
 

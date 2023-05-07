@@ -1,6 +1,6 @@
 <?php
 	define("TITLE", "Do While Loop");
-	$myName	= "Brad Hussey";
+	$myName	= "Anton Rybak";
 	$lessonNum	= 22;
 ?>
 

@@ -4,7 +4,7 @@
 	define("TITLE", "Associative Arrays");
 	
 	// Custom Variables
-	$my_name	= "Brad Hussey";
+	$my_name	= "Anton Rybak";
 	$lesson_num	= 7;
 	
 	// Moustache Associative Array

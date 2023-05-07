@@ -4,7 +4,7 @@
 	define("TITLE", "Comparison Operators");
 	
 	// Custom Variables
-	$myName	= "Brad Hussey";
+	$myName	= "Anton Rybak";
 	$lessonNum	= 14;
 	
 	$yearsOnEarth		= 25.32;

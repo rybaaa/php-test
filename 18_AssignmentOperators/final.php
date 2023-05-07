@@ -4,7 +4,7 @@
 	define("TITLE", "Assignment Operators");
 	
 	// Custom Variables
-	$myName	= "Brad Hussey";
+	$myName	= "Anton Rybak";
 	$lessonNum	= 18;
 
 ?>

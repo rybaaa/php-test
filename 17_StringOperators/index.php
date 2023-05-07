@@ -1,6 +1,6 @@
 <?php
 	define("TITLE", "String Operators");
-	$myName	= "Brad Hussey";
+	$myName	= "Anton Rybak";
 	$lessonNum	= 17;
 ?>
 

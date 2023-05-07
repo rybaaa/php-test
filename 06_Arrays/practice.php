@@ -1,13 +1,5 @@
 <?php
 	
-	// Constants
-
-	
-	// Custom Variables
-
-	
-	// Moustache Array
-	
 ?>
 
 <!DOCTYPE html>

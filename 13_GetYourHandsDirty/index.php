@@ -4,7 +4,7 @@
 	define("TITLE", "If, Else, Elseif");
 	
 	// Custom Variables
-	$my_name	= "Brad Hussey";
+	$my_name	= "Anton Rybak";
 	
 	$species			= "Human";
 	$nativeLanguage		= "English"; // Note the camelCase: http://en.wikipedia.org/wiki/CamelCase

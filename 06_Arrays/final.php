@@ -4,7 +4,7 @@
 	define("TITLE", "Arrays");
 	
 	// Custom Variables
-	$my_name	= "Brad Hussey";
+	$my_name	= "Anton Rybak";
 	$lesson_num	= 6;
 	
 	// Moustache Array

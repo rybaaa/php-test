@@ -4,10 +4,10 @@
 	define("TITLE", "Else if");
 	
 	// Custom Variables
-	$my_name	= "Brad Hussey";
+	$my_name	= "Anton Rybak";
 	$lesson_num	= 12;
 	
-    $native_language = "Spanish";
+    $native_language = "English";
 
 ?>
 

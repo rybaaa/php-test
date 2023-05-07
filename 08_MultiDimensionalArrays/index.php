@@ -1,6 +1,6 @@
 <?php
 	define("TITLE", "Multi-Dimensional Arrays");
-	$my_name	= "Brad Hussey";
+	$my_name	= "Anton RYbak";
 	$lesson_num	= 8;
 	
 	$moustaches = array (

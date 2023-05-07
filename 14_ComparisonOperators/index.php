@@ -1,6 +1,6 @@
 <?php
 	define("TITLE", "Comparison Operators");
-	$myName	= "Brad Hussey";
+	$myName	= "Anton Rybak";
 	$lessonNum	= 14;
 ?>
 

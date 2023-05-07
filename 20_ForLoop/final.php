@@ -4,7 +4,7 @@
 	define("TITLE", "For Loop");
 	
 	// Custom Variables
-	$myName	= "Brad Hussey";
+	$myName	= "Anton Rybak";
 	$lessonNum	= 20;
 
 ?>

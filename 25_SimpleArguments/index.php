@@ -1,6 +1,6 @@
 <?php
 	define("TITLE", "Simple Arguments");
-	$myName	= "Brad Hussey";
+	$myName	= "Anton Rybak";
 	$lessonNum	= 25;
 ?>
 

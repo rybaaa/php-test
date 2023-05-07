@@ -4,7 +4,7 @@
 	define("TITLE", "If Statements");
 	
 	// Custom Variables
-	$my_name	= "Brad Hussey";
+	$my_name	= "Anton Rybak";
 	$lesson_num	= 10;
 
     $a = 20;

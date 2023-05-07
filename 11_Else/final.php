@@ -4,7 +4,7 @@
 	define("TITLE", "Else");
 	
 	// Custom Variables
-	$my_name	= "Brad Hussey";
+	$my_name	= "Anton Rybak";
 	$lesson_num	= 11;
 	
 	$fav_fruit = "orange";

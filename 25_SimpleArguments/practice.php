@@ -4,7 +4,7 @@
 	define("TITLE", "Simple Arguments");
 	
 	// Custom Variables
-	$myName	= "Brad Hussey";
+	$myName	= "Anton Rybak";
 	$lessonNum	= 25;
 
 ?>

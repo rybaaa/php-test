@@ -1,6 +1,6 @@
 <?php
 	define("TITLE", "Logical Operators");
-	$myName	= "Brad Hussey";
+	$myName	= "Anton Rybak";
 	$lessonNum	= 15;
 ?>
 

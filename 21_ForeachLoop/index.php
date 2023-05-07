@@ -1,6 +1,6 @@
 <?php
 	define("TITLE", "Foreach Loop");
-	$myName	= "Brad Hussey";
+	$myName	= "Anton Rybak";
 	$lessonNum	= 21;
 ?>
 

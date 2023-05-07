@@ -4,7 +4,7 @@
 	define("TITLE", "Custom Functions");
 	
 	// Custom Variables
-	$myName	= "Brad Hussey";
+	$myName	= "Anton Rybak";
 	$lessonNum	= 24;
 
 ?>

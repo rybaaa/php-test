@@ -1,6 +1,6 @@
 <?php
 	define("TITLE", "Arrays");
-	$my_name	= "Brad Hussey";
+	$my_name	= "Anton Rybak";
 	$lesson_num	= 6;
 	
 	if (isset ($_GET['ref'])) {
@@ -85,7 +85,7 @@ echo $moustaches[2]; // this will display "Fu Manchu"
 			
 			<hr>
 			
-			<small>&copy;<?php echo date('Y'); ?> <a href="http://bradhussey.ca/"><?php echo $my_name; ?></a></small>
+			<small>&copy;<?php echo date('Y'); ?> <a href="https://github.com/rybaaa"><?php echo $my_name; ?></a></small>
 		</div><!-- end wrapper -->
 		
 		<div class="copyright-info">

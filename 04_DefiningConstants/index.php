@@ -4,7 +4,7 @@
 	define("TITLE", "Defining Constants");
 	
 	// Variables
-	$my_name = "Brad";
+	$my_name = "Anton";
 	$lesson_num = 4;
 	
 ?>

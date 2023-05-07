@@ -1,6 +1,6 @@
 <?php
 	define("TITLE", "Arithmetic Operators");
-	$myName	= "Brad Hussey";
+	$myName	= "Anton Rybak";
 	$lessonNum	= 16;
 ?>
 

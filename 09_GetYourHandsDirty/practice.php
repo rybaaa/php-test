@@ -1,12 +1,4 @@
 <?php
-
-	// Constants
-
-
-	// Variables
-
-	
-	// Arrays
 	
 ?>
 

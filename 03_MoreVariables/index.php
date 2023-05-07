@@ -36,7 +36,7 @@
 				
 <pre class="brush: php">
 &lt;?php
-	$my_name = "Brad";
+	$my_name = "Anton";
 	
 	$my_age = 25;
 	

@@ -1,6 +1,6 @@
 <?php
 	define("TITLE", "Custom Functions");
-	$myName	= "Brad Hussey";
+	$myName	= "Anton Rybak";
 	$lessonNum	= 24;
 ?>
 

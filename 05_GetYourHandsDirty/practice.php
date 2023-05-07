@@ -4,7 +4,9 @@
 	
 	
 	// Your Variables
-	
+	$my_name	= "Anton";
+	$fav_colour	= "Blue";
+	$birth_year	= 1996;
 	
 	/*
 	Use PHP to calculate the difference
@@ -12,7 +14,10 @@
 	to show your age dynamically
 	*/
 
-	
+	$todays_date = date('F j, Y');
+	$date_now = date("Y");
+
+	$my_age = $date_now - $birth_year;
 ?>
 
 <!DOCTYPE html>
@@ -34,16 +39,16 @@
 			
 			<div class="sandbox">
 				<h3>Today's Date:</h3>
-				<p><!-- DATE --></p>
+				<p><?php echo $todays_date; ?></p>
 				
 				<h3>My Name:</h3>
-				<p><!-- YOUR NAME --></p>
+				<p><?php echo $my_name; ?></p>
 				
 				<h3>My Favourite Colour:</h3>
-				<p><!-- FAVOURITE COLOUR --></p>
+				<p><?php echo $fav_colour; ?></p>
 				
 				<h3>My Age:</h3>
-				<p><!-- YOUR AGE --></p>
+				<p><?php echo $my_age; ?></p>
 			</div><!-- end sandbox -->
 			
 			<a href="index.php" class="button">Back to the final example</a>

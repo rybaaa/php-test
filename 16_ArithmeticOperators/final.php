@@ -4,7 +4,7 @@
 	define("TITLE", "Arithmetic Operators");
 	
 	// Custom Variables
-	$myName	= "Brad Hussey";
+	$myName	= "Anton Rybak";
 	$lessonNum	= 16;
 
 ?>

@@ -62,7 +62,7 @@
 				<p>Simple text that must be enclosed within double quotations " " or single quotations ' '</p>
 <pre class="brush: php">
 &lt;?php
-	$vehicle = &quot;Subaru&quot;;
+	$vehicle = &quot;Opel&quot;;
 ?&gt;
 </pre>
 			</div><!-- end sandbox -->

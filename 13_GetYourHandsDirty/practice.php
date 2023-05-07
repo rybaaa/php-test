@@ -1,9 +1,4 @@
 <?php
-	
-	// Constants
-	
-	
-	// Custom Variables
 
 ?>
 

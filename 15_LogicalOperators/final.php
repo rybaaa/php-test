@@ -4,7 +4,7 @@
 	define("TITLE", "Logical Operators");
 	
 	// Custom Variables
-	$myName	= "Brad Hussey";
+	$myName	= "Anton Rybak";
 	$lessonNum	= 15;
 	
     $username = "johnnyboy";

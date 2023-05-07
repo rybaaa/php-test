@@ -4,7 +4,7 @@
 	define("TITLE", "Multi-Dimensional Arrays");
 	
 	// Custom Variables
-	$my_name	= "Brad Hussey";
+	$my_name	= "Anton RYbak";
 	$lesson_num	= 8;
 	
 	// Moustache Multi-Dimensional Array

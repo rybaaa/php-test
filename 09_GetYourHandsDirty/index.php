@@ -4,7 +4,7 @@
 	define("TITLE", "Arrays");
 	
 	// Variables
-	$my_name	= "Brad Hussey";
+	$my_name	= "Anton Rybak";
 	
 	// Arrays
 	$age_group = array("child", "teenager", "adult");

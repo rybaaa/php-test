@@ -1,12 +1,4 @@
 <?php
-	
-	// Constants
-	
-	
-	// Custom Variables
-
-	
-	// Moustache Multi-Dimensional Array
 
 
 ?>
