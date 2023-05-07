@@ -74,7 +74,7 @@ hr {
 	border: none;
 	height: 18px;
 	width: 114px;
-	background: url('/assets/img/hr.png') center center no-repeat;
+	background: url('img/hr.png') center center no-repeat;
 	margin: 20px auto;
 }
 
