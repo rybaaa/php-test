@@ -52,7 +52,7 @@ include("includes/header.php");
         ?>
         <h5>Thanks for contacting!</h5>
         <p>Please allow some time for a response</p>
-        <p><a href="/final" class="button block"></a>Go to Home Page</p>
+        <p><a href="/final" class="button block">Go to Home Page</a></p>
     <?php } else { ?>
 
         <form method="post" action="" id="contact-form">
